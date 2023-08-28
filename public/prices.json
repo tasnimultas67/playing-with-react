@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Plan",
+        "pricing": 19.99,
+        "features": [
+            "1 GB Storage",
+            "10 GB Bandwidth",
+            "24/7 Support"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Plan",
+        "pricing": 29.99,
+        "features": [
+            "5 GB Storage",
+            "50 GB Bandwidth",
+            "24/7 Support",
+            "Free Domain"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Plan",
+        "pricing": 39.99,
+        "features": [
+            "10 GB Storage",
+            "100 GB Bandwidth",
+            "24/7 Support",
+            "Free Domain",
+            "SSL Certificate"
+        ]
+    }
+]
